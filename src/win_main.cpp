@@ -1,4 +1,4 @@
-﻿// tutorial_1_d3d11_setup.cpp : Defines the entry point for the application.
+﻿// win_main.cpp : Defines the entry point for the application.
 //
 // General tutorial for the setup of the window itself can be found here:
 // [Your first Win32 API Window Program]{ https://docs.microsoft.com/en-us/windows/win32/learnwin32/your-first-windows-program }
